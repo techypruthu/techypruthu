@@ -1,0 +1,2 @@
+# techypruthu
+A noob programmer
